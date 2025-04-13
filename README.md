@@ -41,10 +41,17 @@
 - 📝 **Bachelor’s Thesis In Progress** – *"Optimization Algorithms in Neural Network Training"*.  
 
 
+### 🌱 Open To
+
+- Internships and trainee positions in data science, analytics, or ML engineering.    
+- Collaborating on open-source data or ML-related projects.    
+- Knowledge sharing related to Python, R, or SQL.   
+
+
 ### 📫 How to Reach Me
 
 - 📧 Email: [matirzez@gmail.com](mailto:matirzez@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/mateusz-r-a18216324](https://www.linkedin.com/in/mateusz-r-a18216324/)  
 - 🐙 GitHub: [github.com/matrzez](https://github.com/matrzez)
 
-
+I believe in continuous learning and practical application – let’s create something impactful together.  
