@@ -11,9 +11,7 @@
 
 ### 📚 Currently Learning
 
-### 🌱 Interests Outside Tech
 
-### 📫 How to Reach Me
 
 ### 📫 How to Reach Me
 
