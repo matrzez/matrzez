@@ -21,10 +21,8 @@
 - **Machine Learning & Deep Learning** – working with `scikit-learn` for classical ML models, and `tensorflow`, `keras` for building and training neural networks.   
 - **Practical Applications** – applying Python in academic and personal projects involving data analysis, optimization, and statistical modeling.  
 #### 📊 R
-- **Statistical Computing** – used for statistical analysis, data exploration, and visualization using libraries like `ggplot2`, `dplyr`, and `tidyr`.  
-- **Time Series Analysis** – analyzing and forecasting time-dependent data with packages such as `forecast`.  
-- **Optimization & Simulation** – applied in nonlinear optimization and stochastic process modeling.   
-- **Coursework Applications** – used extensively during university courses such as Time Series, Statistical Data Analysis, Nonlinear Optimization, and Programming in R.   
+- **Statistical Computing** – used for statistical analysis, data exploration, and visualization using libraries like `ggplot2`, `dplyr`, and `tidyr`.    
+- **Coursework Applications** – used extensively during university courses such as Time Series, Statistical Data Analysis, Nonlinear Optimization, Stochastic Process Modeling and Programming in R.   
 
 #### 🐘 SQL
 - **Practical SQL Querying** – able to effectively query existing databases using SQL, performing operations such as filtering, joining, and aggregating data.  
