@@ -13,28 +13,28 @@
 #### 🎮 C#
 - Getting familiar with syntax and core OOP concepts.  
 #### 📄 LaTeX
-- **Presentation with Beamer** – creating academic and professional presentations using the `beamer` package.  
-- **Academic Documentation** – writing professional documents in an academic tone, utilizing LaTeX's advanced formatting tools and templates.  
-- **Web LaTeX Editor Project** – built a simplified Overleaf-style tool with Django that lets users write LaTeX in the browser and generate PDF output through server-side compilation.
+- **Presentation with Beamer** - creating academic and professional presentations using the `beamer` package.  
+- **Academic Documentation** - writing professional documents in an academic tone, utilizing LaTeX's advanced formatting tools and templates.  
+- **Web LaTeX Editor Project** - built a simplified Overleaf-style tool with Django that lets users write LaTeX in the browser and generate PDF output through server-side compilation.
 #### 🐍 Python
-- **Data Science Libraries** – using libraries such as `pandas`, `numpy`, `matplotlib` for data manipulation, numerical operations and visualization.   
-- **Machine Learning & Deep Learning** – working with `scikit-learn` for classical ML models and `tensorflow`, `keras` for building and training neural networks.   
-- **Practical Applications** – applying Python in academic and personal projects involving data analysis, optimization, statistical modeling and discrete mathematics.  
-- **Web Development** – designing simple web applications using the Django framework, including backend logic and dynamic content rendering.
+- **Data Science Libraries** - using libraries such as `pandas`, `numpy`, `matplotlib` for data manipulation, numerical operations and visualization.   
+- **Machine Learning & Deep Learning** - working with `scikit-learn` for classical ML models and `tensorflow`, `keras` for building and training neural networks.   
+- **Practical Applications** - applying Python in academic and personal projects involving data analysis, optimization, statistical modeling and discrete mathematics.  
+- **Web Development** - designing simple web applications using the Django framework, including backend logic and dynamic content rendering.
 #### 📊 R
-- **Statistical Computing** – used for statistical analysis, data exploration and visualization using libraries like `ggplot2`, `dplyr` and `tidyr`.    
-- **Coursework Applications** – used extensively during university courses such as Time Series, Statistical Data Analysis, Nonlinear Optimization, Stochastic Process Modeling and Programming in R.   
+- **Statistical Computing** - used for statistical analysis, data exploration and visualization using libraries like `ggplot2`, `dplyr` and `tidyr`.    
+- **Coursework Applications** - used extensively during university courses such as Time Series, Statistical Data Analysis, Nonlinear Optimization, Stochastic Process Modeling and Programming in R.   
 #### 🐘 SQL
-- **Practical SQL Querying** – able to effectively query existing databases using SQL, performing operations such as filtering, joining and aggregating data.  
-- **Database Design & Structure** – creating and designing basic database objects and structures such as tables, views, indexes and relationships.    
-- **Optimization** – experience with query optimization to improve performance, including indexing and analyzing execution plans.   
-- **Database Administration** – skills in database system administration, including user management, backup creation and performance monitoring.  
+- **Practical SQL Querying** - able to effectively query existing databases using SQL, performing operations such as filtering, joining and aggregating data.  
+- **Database Design & Structure** - creating and designing basic database objects and structures such as tables, views, indexes and relationships.    
+- **Optimization** - experience with query optimization to improve performance, including indexing and analyzing execution plans.   
+- **Database Administration** - skills in database system administration, including user management, backup creation and performance monitoring.  
 
 
 ### 📚 Currently Learning
 
 - 🧠 Learning the theory behind neural networks and optimization algorithms with emphasis on their mathematical background and practical behavior.
-- 📝 **Bachelor’s Thesis In Progress** – *"Optimization Algorithms in Neural Network Training"*.  
+- 📝 **Bachelor’s Thesis In Progress** - *"Optimization Algorithms in Neural Network Training"*.  
 
 
 ### 🌱 Open To
