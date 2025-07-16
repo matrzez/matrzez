@@ -2,10 +2,10 @@
 
 ### 👋 About Me
 
-🎓 I'm a final-year **Engineering and Data Analysis** student at **Rzeszów University of Technology** with 6 semesters completed.  
-📊 I'm passionate about **database systems and SQL**, **neural networks** and **mathematical modeling** for solving practical problems such as optimization and econometric analysis. I also have strong knowledge in **discrete mathematics** and **probability theory**, which support and strengthen my analytical thinking. 
-💡 I mainly work with **Python**, **R** and **SQL** to explore data, find patterns and better understand real-world problems through analysis.
-🏓 Before university, I was a competitive **table tennis player**, participating in multiple **Polish Championships**. One day, I plan to combine this passion with **machine learning**, creating something that bridges the gap between what I love and what I study.  
+🎓 I'm a final-year **Engineering and Data Analysis** student at **Rzeszów University of Technology** with 6 semesters completed.   
+📊 I'm passionate about **database systems and SQL**, **neural networks** and **mathematical modeling** for solving practical problems such as optimization and econometric analysis. I also have strong knowledge in **discrete mathematics** and **probability theory**, which support and strengthen my analytical thinking.  
+💡 I mainly work with **Python**, **R** and **SQL** to explore data, find patterns and better understand real-world problems through analysis.  
+🏓 Before university, I was a competitive **table tennis player**, participating in multiple **Polish Championships**. One day, I plan to combine this passion with **machine learning**, creating something that bridges the gap between what I love and what I study.   
 
 
 ### 💻 Languages & Tools I Use
